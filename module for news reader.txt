@@ -1,0 +1,7 @@
+requests==2.23.0
+pywin32==228
+json
+datetime
+
+
+i use python Python 3.8.3
