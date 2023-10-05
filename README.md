@@ -1,7 +1,7 @@
 # BBC-news-reader-
 
 ## Overview
-The Daily News Reader is a web application that allows users to read daily news updates conveniently. It provides a user-friendly interface to access and browse the latest news articles, making it an excellent platform for staying informed.
+The Daily News Reader is an application that allows users to read daily news updates conveniently. 
 
 ## Features
 - **Read the Latest News**: Access up-to-date news articles from various sources.
